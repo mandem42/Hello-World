@@ -3,7 +3,7 @@ import turtle
 #Window Setup
 
 wn = turtle.Screen()
-wn.title("Pong Game by Echo")
+wn.title("Pong Game by mandem")
 wn.bgcolor("dark gray")
 wn.setup(width=800,height=600)
 wn.tracer(0)
